@@ -8,3 +8,5 @@ end
 
 # solution
 
+robot = RobotC.new
+robot.initialize

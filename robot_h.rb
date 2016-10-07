@@ -12,4 +12,5 @@ class RobotH
 end
 
 # solution
-
+robot = RobotH.new("Nate", "Macaso")
+robot.say_full_name

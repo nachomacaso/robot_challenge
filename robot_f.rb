@@ -9,4 +9,5 @@ module CoolRobots
 end
 
 # solution
-
+robot = CoolRobots::RobotF.new
+robot.laugh
